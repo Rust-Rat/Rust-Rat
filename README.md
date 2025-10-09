@@ -4,9 +4,8 @@
 
 ## 🧰 What I use
 - Gnu Assembly (The ***Holy Language***)
-- Haskell
-- Dabble in C.
 - Maths (sadly very fun).
+- Sometimes Dabble in C and Haskell
 
 ## 💾 Most Recent Project
 [**LOTR Character Bios (In Assembly)**](https://github.com/Rust-Rat/Middle-Earth-Official-Character-Bios)
@@ -14,7 +13,9 @@
 
 ## 🤓 Currently learning
 - The ***Holy Language***
-- Haskell
 - Maths
 - How to write a README 😭😭
+
+### And yes, I only really use assembly, I warned you!!
+
 > "README exited with code 0"
