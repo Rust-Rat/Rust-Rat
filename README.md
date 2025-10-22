@@ -16,7 +16,7 @@
 - Wisp
 - Maths
 
-## Current playlist
+## 🎧 Current playlist
 [**MY GOSH DARN FRICKIN' PLAYLIST!!!**](https://github.com/Rust-Rat/Playlist-Of-DOOM)
 
 > "README exited with code 0"
